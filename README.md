@@ -1,5 +1,5 @@
 # ishare
-````
+```
 Add custom login and registration functionality.
 Add 2 columns (mobile_no, is_admin) to users table.
 Users (guest as well as logged in) can submit articles. guest submissions will be marked as unapproved and will be shown once approved by admin.
